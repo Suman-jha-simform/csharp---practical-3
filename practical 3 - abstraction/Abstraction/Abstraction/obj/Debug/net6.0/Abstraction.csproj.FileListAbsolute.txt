@@ -1,0 +1,15 @@
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.exe
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 3\practical 3 - abstraction\Abstraction\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll
